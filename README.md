@@ -19,9 +19,9 @@ El periodo de entrenamiento,validacion  y test  se hace en la proporcion 60/20/2
 
 - Test: de 17:13 a 18:07
 
-## Resultados Metricas  con algoritmo CO, metodo Median  y 10"
+# Resultados Metricas  con algoritmo CO, metodo Median  y 10"
 
-# Datos anteriores con secuencia fija
+## Datos anteriores con secuencia fija
 
 | Metrica          | Fryer   | LED Lamp | Incandescent lamp | Laptop Computer | Fan     | Media Aritmética |
 |-----------------|---------|----------|------------------|----------------|---------|------------------|
@@ -32,7 +32,7 @@ El periodo de entrenamiento,validacion  y test  se hace en la proporcion 60/20/2
 
 
 
-# Datos actuales con muestras aleatorias 
+## Datos actuales con muestras aleatorias 
 
 | Metrica          | Fryer   | LED Lamp | Incandescent lamp | Laptop Computer | Fan     | Media Aritmética |
 |-----------------|---------|----------|------------------|----------------|---------|------------------|
@@ -46,7 +46,7 @@ El periodo de entrenamiento,validacion  y test  se hace en la proporcion 60/20/2
 
 
 
-## Resultados
+# Resultados
 
 En cuanto a la métrica F1, que mide la precisión y exhaustividad del modelo, el primer dataset tomado  con secuencia fija tiene valores más altos para todos los dispositivos, lo que sugiere un mejor desempeño en términos generales.
 
