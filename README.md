@@ -21,6 +21,18 @@ El periodo de entrenamiento,validacion  y test  se hace en la proporcion 60/20/2
 
 ## Resultados Metricas  con algoritmo CO, metodo Median  y 10"
 
+# Datos anteriores con secuencia fija
+
+| Metrica          | Fryer   | LED Lamp | Incandescent lamp | Laptop Computer | Fan     | Media Aritmética |
+|-----------------|---------|----------|------------------|----------------|---------|------------------|
+| F1              | 0.420   | 0.789    | 0.756            | 0.453           | 0.741   | 0.632            |
+| EAE            | 0.002   | 0.001    | 0.011            | 0.002           | 0.012   | 0.006            |
+| MNEAP       | 1.138   | 0.349    | 0.484            | 1.150           | 0.502   | 0.725            |
+| RMSE        | 17.417 | 7.339     | 22.688         | 13.816         | 12.651 | 14.382           |
+
+
+
+# Datos actuales con muestras aleatorias 
 
 | Metrica          | Fryer   | LED Lamp | Incandescent lamp | Laptop Computer | Fan     | Media Aritmética |
 |-----------------|---------|----------|------------------|----------------|---------|------------------|
