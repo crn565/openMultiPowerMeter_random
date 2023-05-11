@@ -46,7 +46,7 @@ El periodo de entrenamiento,validacion  y test  se hace en la proporcion 60/20/2
 
 
 
-# Resultados
+# Interpretacion de los resultados
 
 En cuanto a la métrica F1, que mide la precisión y exhaustividad del modelo, el primer dataset tomado  con secuencia fija tiene valores más altos para todos los dispositivos, lo que sugiere un mejor desempeño en términos generales.
 
