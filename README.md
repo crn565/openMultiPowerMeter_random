@@ -43,16 +43,16 @@ El periodo de entrenamiento,validacion  y test  se hace en la proporcion 60/20/2
 
 
 
-Tabla
+##  Datos obtenidos con secuencia y tiempo aleatorio entre 1 y 2 minutos
 
 
 | Metrica          | Fryer   | LED Lamp | Incandescent lamp | Laptop Computer | Fan     | Media Aritmética |
-|-----------------|---------|----------|------------------|----------------|---------|------------------|
-| F1	| 0.591| 	0.158| 	0.752| 	0.349| 	0.577| 
-| EAE	| 0.000| 	0.000	| 0.000| 	0.000| 	0.000| 
-| MNEAP	| 0.726| 	1.596| 	0.443| 	1.212| 	0.823| 
-| RMSE	| 11.169| 	9.259| 	18.718| 	8.170| 	15.660| 
-En el formato Markdown, un título se crea usando uno o más s
+|-----------------|---------|----------|------------------|---------------|---------|------------------|
+| F1	| 0.591| 	0.158| 	0.752| 	0.349| 	0.577| 	0.4854 |
+| EAE	| 0.000| 	0.000	| 0.000| 	0.000| 	0.000| 0.000 |
+| MNEAP	| 0.726| 	1.596| 	0.443| 	1.212| 	0.823| 0.9600|  
+| RMSE	| 11.169| 	9.259| 	18.718| 	8.170| 	15.660| 12.7952 |
+
 
 
 
